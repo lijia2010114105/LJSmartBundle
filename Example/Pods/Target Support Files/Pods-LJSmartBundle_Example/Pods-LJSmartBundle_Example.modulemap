@@ -1,0 +1,6 @@
+framework module Pods_LJSmartBundle_Example {
+  umbrella header "Pods-LJSmartBundle_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module LJSmartBundle {
+  umbrella header "LJSmartBundle-umbrella.h"
+
+  export *
+  module * { export * }
+}

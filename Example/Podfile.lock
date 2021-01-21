@@ -1,0 +1,16 @@
+PODS:
+  - LJSmartBundle (0.1.0)
+
+DEPENDENCIES:
+  - LJSmartBundle (from `../`)
+
+EXTERNAL SOURCES:
+  LJSmartBundle:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LJSmartBundle: bed871851dc427d94592399500fd6e15cad25104
+
+PODFILE CHECKSUM: a69239ff60beed4578d802b806cdb54e96c4829c
+
+COCOAPODS: 1.10.0
