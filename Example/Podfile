@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'LJSmartBundle_Example' do
+  pod 'LJSmartBundle', :path => '../'
+
+  target 'LJSmartBundle_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
